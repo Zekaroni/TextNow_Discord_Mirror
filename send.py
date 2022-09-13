@@ -1,5 +1,10 @@
-import discord ; import pytextnow ; import requests ; from PIL import Image
-from io import BytesIO ; import os ; from settings import Settings
+import discord
+import pytextnow
+import requests
+from PIL import Image
+from io import BytesIO
+import os
+from settings import Settings
 
 client = discord.Client()
 text_now_client = pytextnow.Client(Settings.username,sid_cookie=Settings.sid,csrf_cookie=Settings.csrf)

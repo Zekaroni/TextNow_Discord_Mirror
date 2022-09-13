@@ -1,4 +1,5 @@
-import os ; from settings import Settings
+import os
+from settings import Settings
 
 variables = list(vars(Settings).items())
 for var in variables:

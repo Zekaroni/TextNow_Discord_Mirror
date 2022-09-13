@@ -1,6 +1,9 @@
-import pytextnow ; import asyncio
+import pytextnow
+import asyncio
 from discord import Webhook, AsyncWebhookAdapter
-import aiohttp ; from settings import Settings
+import aiohttp
+from settings import Settings
+
 number = '+1' + Settings.number
 text_now_client = pytextnow.Client(Settings.username,sid_cookie=Settings.sid,csrf_cookie=Settings.csrf)
 async def send_msg(message):
