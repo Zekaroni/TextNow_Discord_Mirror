@@ -9,4 +9,5 @@
 
 ## Setup
 
-![alt text](https://cdn.discordapp.com/attachments/990420582585757716/1019038706604187729/unknown.png)
+* Create an account for [TextNow](https://www.textnow.com/)
+* Create a discord bot and copy the API key https://discord.com/developers/applications
