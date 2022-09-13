@@ -16,7 +16,7 @@
   * Copy the Webhook url ([Image](https://user-images.githubusercontent.com/99856216/189783284-3c545ff8-c4d5-4e0d-a564-f936ab4b89c4.png))
 * Fill out the `settings.py` file
   * To find the `channel_id`, right click on the channel you want to use for messaging ([Image](https://user-images.githubusercontent.com/99856216/189784416-02e6fa44-29a8-4628-b0db-dfc00d1c0453.png))
-    * Note : If you don't see options to copy ID when right clicking, enable developer options [Image](https://user-images.githubusercontent.com/99856216/189804552-06a837f3-e147-494f-858f-b7c4f0347ebc.png)
+    * Note : If you don't see options to copy ID when right clicking, enable developer options ([Image](https://user-images.githubusercontent.com/99856216/189804552-06a837f3-e147-494f-858f-b7c4f0347ebc.png))
   * To find `personal_id` copy your user id from discord ([Image](https://user-images.githubusercontent.com/99856216/189785842-e09faff8-f3ea-4866-85a9-5a554d4a8498.png))
   * For `number` and `name`, just enter the phone number and name of who you are messaging
     * Example : `number = '1234567890'` and `name = 'Steven'`
