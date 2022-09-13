@@ -14,9 +14,11 @@
   * Invite the discord bot to your server and optionally create a channel only you can see and message in
 * Create a [dicord webhook](https://discord.com/developers/docs/resources/webhook) for a specific channel in your server
   * Copy the webhook url
-  <img width="400" height="400" scr="https://user-images.githubusercontent.com/99856216/189783284-3c545ff8-c4d5-4e0d-a564-f936ab4b89c4.png">
+  ![](https://user-images.githubusercontent.com/99856216/189783284-3c545ff8-c4d5-4e0d-a564-f936ab4b89c4.png)
 * Fill out the `settings.py` file
-  * To find the `channel_id`, right click on the channel you want to use for messaging
-<p align="center">
-  <img width="200" height="400" src="https://user-images.githubusercontent.com/99856216/189784416-02e6fa44-29a8-4628-b0db-dfc00d1c0453.png">
-</p>
+  * To find the `channel_id`, right click on the channel you want to use for messaging ([Example Image](https://user-images.githubusercontent.com/99856216/189784416-02e6fa44-29a8-4628-b0db-dfc00d1c0453.png))
+  * To find `personal_id` copy your user id from discord ([Example Image](https://user-images.githubusercontent.com/99856216/189785842-e09faff8-f3ea-4866-85a9-5a554d4a8498.png))
+  * For `number` and `name`, just enter the phone number and name of who you are messaging
+    * Example : `number = '1234567890'` and `name = 'Steven'`
+  * For the TextNowAPI settings, please consult [their github](https://github.com/leogomezz4t/PyTextNow_API#how-to-get-the-cookie)
+* You should now be able to run `run.py` and be able to use SMS and MMS messaging with discord in that specific channel
