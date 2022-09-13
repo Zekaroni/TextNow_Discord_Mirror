@@ -1,6 +1,6 @@
 # TextNow_Discord_Mirror
 
-## Please note that this is only tested/working on Linux(Ubuntu) as of latest version
+***Please note that this is only tested and working with Linux(Ubuntu) as of latest update***
 
 ## Dependencies
 
