@@ -8,3 +8,5 @@
 * [`discord.py`](https://github.com/Rapptz/discord.py)
 
 ## Setup
+
+![alt text](https://cdn.discordapp.com/attachments/990420582585757716/1019038706604187729/unknown.png)
