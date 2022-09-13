@@ -10,4 +10,4 @@
 ## Setup
 
 * Create an account for [TextNow](https://www.textnow.com/)
-* Create a discord bot and copy the API key https://discord.com/developers/applications
+* Create a [discord bot](https://discord.com/developers/applications) and copy the API key
