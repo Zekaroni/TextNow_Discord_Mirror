@@ -1,4 +1,6 @@
-# TextNow_Discord_Mirror
+## TextNow_Discord_Mirror
+
+# Please note that this is only tested/working on Linux(Ubuntu) as of latest version
 
 ## Dependencies
 
