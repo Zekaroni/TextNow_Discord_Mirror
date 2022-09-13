@@ -1,7 +1,7 @@
 # TextNow_Discord_Mirror
 
 ***Please note that this is only tested and working with Linux(Ubuntu) as of latest update***
- * ***Some features work on Windows 10, but I haven't tested in depth****
+ * ***Some features work on Windows 10, but I haven't tested in depth***
 
 ## Dependencies
 
